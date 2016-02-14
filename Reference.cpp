@@ -1,4 +1,4 @@
-//Entrada y salida en C++
+---------------------Sección entrada y salida----------------------
 //Entrada
 cin >> aqui va la variable o mensaje ;
 scanf(); //Se tiene que dar formato de salida y entrada
