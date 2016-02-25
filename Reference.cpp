@@ -57,7 +57,7 @@ int main()
        if(b>a){
         cout <<"Es menor";
        }else{
-         cout << "Son iguales";3
+         cout << "Son iguales";
        }
     }
     return 0;
